@@ -14,7 +14,7 @@
 
 - 🔭 Working as a Web Developer for Metallurgical Systems [MetSystems](https://www.linkedin.com/company/metallurgical-systems/mycompany/)
 
-- 🌱 I’m currently learning **GoLang** and **Flutter**
+- 🌱 I’m currently learning **Rust** and **Flutter**
 
 - 📝 I'm slowly starting to contribute to community repositories [EF.Core](https://github.com/dotnet/efcore/issues/29297) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions)
 
