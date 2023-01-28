@@ -15,7 +15,7 @@
 
 - 🌱 In my free time I'm slowly learning **Rust** and **Dart** just to familiarize myself with different languages I'm not actively working on.
 
-- 📝 I like to contribute (even though it's small) when I get the chance to community repositories when I get the chance. Examples would be [EF.Core](https://github.com/dotnet/efcore/issues/29297) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions)
+- 📝 I like to contribute (even though it's small) when I get the chance to community repositories. Examples would be [EF.Core](https://github.com/dotnet/efcore/issues/29297) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions)
 
 - 🤵 [Resume](https://www.linkedin.com/in/christopher-van-rooyen/)
 
