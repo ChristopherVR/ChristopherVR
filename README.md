@@ -2,11 +2,10 @@
 <img align="center" alt="Coding" height="300" width="1600" src="https://github.com/ChristopherVR/ChristopherVR/blob/main/welcome-black.png">
 
 <h1 align="center">Hi 👋, I'm Christopher Johann van Rooyen.</h1>
- <h3 align="center">Currently working for a Metallurgical company in Sydney, Australia - <a href="https://metsystems.com.au/">Metallurgical Systems</a></h3>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<h2>I am a Full Stack Web Developer, Microservices Developer, hobby mobile Developer, and competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I believe growth lies in knowledge and have fallen in love with technology.</h2>
+<h2>I am a Full Stack Web Developer, Microservices Developer, hobby mobile Developer, and competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I believe growth lies in knowledge and the ability to easily adapt to a new stack if required.</h2>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophervr&label=Profile%20views&color=0e75b6&style=flat" alt="ChristopherVR" /> </p>
@@ -14,13 +13,11 @@
 
 - 🔭 Working as a Web Developer for Metallurgical Systems [MetSystems](https://www.linkedin.com/company/metallurgical-systems/mycompany/)
 
-- 🌱 I’m currently learning **Rust** and **Flutter**
+- 🌱 In my free time I'm slowly learning **Rust** and **Dart** just to familiarize myself with different languages I'm not actively working on.
 
-- 📝 I'm slowly starting to contribute to community repositories [EF.Core](https://github.com/dotnet/efcore/issues/29297) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions)
+- 📝 I like to contribute (even though it's small) when I get the chance to community repositories when I get the chance. Examples would be [EF.Core](https://github.com/dotnet/efcore/issues/29297) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions)
 
-- 📫 You can reach me at **chrisjvrooyen@gmail.com**
-
-- 🤵 Here's my [Resume](https://www.linkedin.com/in/christopher-van-rooyen-521b0815a/)
+- 🤵 [Resume](https://www.linkedin.com/in/christopher-van-rooyen/)
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophervr&show_icons=true&locale=en&layout=compact" alt="christophervr" /></p>
@@ -59,7 +56,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophervr&" alt="christophervr" /></p> 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=christophervr&theme=react-dark&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=christophervr&theme=react-dark&area=true&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
