@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophervr&label=Profile%20views&color=0e75b6&style=flat" alt="ChristopherVR" /> </p>
 
 
-- 🔭 Working as a Web Developer for Metallurgical Systems [MetSystems](https://www.linkedin.com/company/metallurgical-systems/mycompany/)
+- 🔭 Working as a Full Web Developer & Desktop applications (WPF, MAUI)
 
 - 🌱 In my free time I'm slowly learning **Rust** and **Dart** just to familiarize myself with different languages I'm not actively working on.
 
