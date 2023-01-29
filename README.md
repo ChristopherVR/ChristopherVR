@@ -5,17 +5,17 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-<h2>I am a Full Stack Web Developer, Microservices Developer, hobby mobile Developer, and competitive programming enthusiast who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I believe growth lies in knowledge and the ability to easily adapt to a new stack if required.</h2>
+<h2>I'm a Full Stack Web, Microservices & Desktop developer. I'm an enthusiast programmer who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I believe growth lies in knowledge and the ability to easily adapt to a new stack if required.</h2>
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophervr&label=Profile%20views&color=0e75b6&style=flat" alt="ChristopherVR" /> </p>
 
 
-- 🔭 Working as a Full Web Developer & Desktop applications (WPF, MAUI)
+- 🔭 Working fulltime as a Full Stack Web (.NET, Angular) & Desktop applications developer (WPF, MAUI).
 
-- 🌱 In my free time I'm slowly learning **Rust** and **Dart** just to familiarize myself with different languages I'm not actively working on.
+- 🌱 In my free time I'm learning **Rust** and **Dart** just to familiarize myself with different languages I'm not actively working on.
 
-- 📝 I like to contribute (even though it's small) when I get the chance to community repositories. Examples would be [EF.Core](https://github.com/dotnet/efcore/issues/29297) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions)
+- 📝 I like to contribute (even though it's small) when I get the chance to community repositories. Examples would be [EF.Core](https://github.com/dotnet/efcore/issues?q=is%3Aissue+author%3A%40me) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)
 
 - 🤵 [Resume](https://www.linkedin.com/in/christopher-van-rooyen/)
 
@@ -60,7 +60,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/christopher-van-rooyen-521b0815a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Christopher" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christopher-van-rooyen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Christopher" height="30" width="40" /></a>
 <a href="https://instagram.com/christophervryn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_s.rv_" height="30" width="40" /></a>
 </p>
 
