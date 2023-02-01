@@ -13,7 +13,7 @@
 
 - 🔭 Working fulltime as a Full Stack Web (.NET, Angular) & Desktop applications developer (WPF, MAUI).
 
-- 🌱 In my free time I'm learning **Rust** and **Dart** just to familiarize myself with different languages I'm not actively working on.
+- 🌱 In my free time I'm learning **Rust** and hopefully soon **Dart** just to familiarize myself with different languages I'm not actively working on.
 
 - 📝 I like to contribute (even though it's small) when I get the chance to community repositories. Examples would be [EF.Core](https://github.com/dotnet/efcore/issues?q=is%3Aissue+author%3A%40me) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)
 
