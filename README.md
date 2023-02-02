@@ -21,10 +21,11 @@
 - 🤵 [Resume](https://www.linkedin.com/in/christopher-van-rooyen/)
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophervr&show_icons=true&locale=en&layout=compact" alt="christophervr" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophervr&show_icons=true&locale=en" alt="christophervr" /></p>
-<br> <br><br> <br><br> <br>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophervr&show_icons=true&locale=en&layout=compact" alt="christophervr" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophervr&show_icons=true&locale=en" alt="christophervr" />
+</p>
+<br><br> <br>
 <br>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
