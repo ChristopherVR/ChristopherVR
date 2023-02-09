@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
 <h2 align="left"> Introduction</h2>
 
@@ -28,7 +28,7 @@
 <br><br> <br>
 <br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
 <h2 align="left"> :pencil: Languages and Tools</h2>
 <!-- Bootstrap -->
@@ -89,14 +89,14 @@
 <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png" alt="WPF" width="40" height="40"/> </a>
 <br>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
 <h2 align="left"> 🌵 Statistics</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophervr&" alt="christophervr" /></p> 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=christophervr&theme=react-dark&area=true&hide_border=true)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
 <h2 align="left"> :dart: Connect with me</h2>
 
