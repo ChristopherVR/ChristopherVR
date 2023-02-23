@@ -9,7 +9,7 @@
 
 <h2 align="left"> Introduction</h2>
 
-<h2>I'm a Full Stack Web, Microservices & Desktop developer. I'm an enthusiast programmer who is eager to learn and contribute to team success through prolific hard work, accountable management skills, well-versed knowledge and hands on experience of product development process. I believe growth lies in knowledge and the ability to easily adapt to a new stack if required.</h2>
+<h2>I am Full Stack Web, Microservices, and Desktop development developer. As an enthusiastic programmer, I am eager to learn and contribute to team success through hard work, accountable management skills, well-versed knowledge, and hands-on experience in the product development process. I believe that growth is attained through acquiring knowledge and the ability to easily adapt to a new technology stack, if necessary.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophervr&label=Profile%20views&color=0e75b6&style=flat" alt="ChristopherVR" /> </p>
 
 - 🔭 Working fulltime as a Full Stack Web (.NET, Angular) & Desktop applications developer (WPF, MAUI).
