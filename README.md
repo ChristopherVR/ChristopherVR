@@ -1,24 +1,12 @@
 
 <img align="center" alt="Coding" height="300" width="1600" src="https://github.com/ChristopherVR/ChristopherVR/blob/main/welcome-black.png">
 
-<h1 align="center">Hi 👋, I'm Christopher Johann van Rooyen.</h1>
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
 <h2 align="left"> Introduction</h2>
 
-<h2>I am Full Stack Web, Microservices, and Desktop development developer. As an enthusiastic programmer, I am eager to learn and contribute to team success through hard work, accountable management skills, well-versed knowledge, and hands-on experience in the product development process. I believe that growth is attained through acquiring knowledge and the ability to easily adapt to a new technology stack, if necessary.</h2>
+<h2>I’m a full-stack developer specializing in web, microservices, and desktop applications. I like to tinker with new technologies and help teams solve problems through hands-on collaboration.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophervr&label=Profile%20views&color=0e75b6&style=flat" alt="ChristopherVR" /> </p>
-
-- 🔭 Working fulltime as a Full Stack Web (.NET, Angular) & Desktop applications developer (WPF, MAUI).
-
-- 🌱 In my free time I'm learning **Rust** and hopefully soon **Dart** just to familiarize myself with different languages I'm not actively working on.
-
-- 📝 I like to contribute (even though it's small) when I get the chance to community repositories. Examples would be [EF.Core](https://github.com/dotnet/efcore/issues?q=is%3Aissue+author%3A%40me) & [EF Bulk Extensions](https://github.com/borisdj/EFCore.BulkExtensions/pulls?q=is%3Apr+author%3A%40me+is%3Aclosed)
-
-- 🤵 [Resume](https://www.linkedin.com/in/christopher-van-rooyen/)
 
 <br>
 <p>
@@ -37,8 +25,6 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a> 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<!-- Firebase -->
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <!-- Flutter -->
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <!-- Git -->
@@ -58,7 +44,7 @@
 <!-- Redux  -->
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <!-- Rust  -->
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Next" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/> </a>
 <!-- Github -->
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
 <!-- Angular -->
@@ -85,8 +71,6 @@
 <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNetCore" width="40" height="40"/> </a>
 <!-- MAUI.NET -->
 <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhUYi8X_XDri4EpbM_QFWZkNpEetsCKW3-AS9P6J5GiHPWJQIoWYC7qbvrdMNak-RcOI&usqp=CAU" alt="MAUI" width="40" height="40"/> </a> 
-<!-- WPF -->
-<a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="https://www.ritechpune.com/backend/courseicon/WPFLogo.png" alt="WPF" width="40" height="40"/> </a>
 <br>
 
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
@@ -94,7 +78,7 @@
 <h2 align="left"> 🌵 Statistics</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophervr&" alt="christophervr" /></p> 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=christophervr&theme=react-dark&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChristopherVR&theme=react-dark)
 
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
