@@ -8,14 +8,6 @@
 <h2>I’m a full-stack developer specializing in web, microservices, and desktop applications. I like to tinker with new technologies and help teams solve problems through hands-on collaboration.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophervr&label=Profile%20views&color=0e75b6&style=flat" alt="ChristopherVR" /> </p>
 
-<br>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophervr&show_icons=true&locale=en&layout=compact" alt="christophervr" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=christophervr&show_icons=true&locale=en" alt="christophervr" />
-</p>
-<br><br> <br>
-<br>
-
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
 <h2 align="left"> :pencil: Languages and Tools</h2>
@@ -86,7 +78,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/christopher-van-rooyen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Christopher" height="30" width="40" /></a>
-<a href="https://instagram.com/christophervryn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_s.rv_" height="30" width="40" /></a>
 </p>
 
 
