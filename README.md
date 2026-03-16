@@ -5,7 +5,7 @@
 
 ## About me
 
-Full-stack developer based in Brisbane, Australia. I work mostly with TypeScript, C#, and Python across cloud and web projects. Currently focused on agentic AI solutions and enterprise integrations on Azure and Databricks.
+Azure Software Engineer based in Brisbane, Australia. I work mostly with TypeScript, C#, and Python across cloud and web projects. Currently focused on agentic AI solutions and enterprise integrations on Azure and Databricks.
 
 Day-to-day I build MCP servers, write custom agent skills, and wire agentic AI into enterprise workflows - it's a core part of what I do both professionally and in side projects.
 
