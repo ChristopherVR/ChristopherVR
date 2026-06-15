@@ -1,4 +1,3 @@
-
 <img align="center" alt="Coding" height="300" width="1600" src="https://github.com/ChristopherVR/ChristopherVR/blob/main/welcome-black.png">
 
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
@@ -17,8 +16,9 @@ BSc IT & Honours in Computer Science from North West University. Azure certified
 
 ## What I'm working on (personal)
 
-- **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** - TypeScript monorepo for parsing, editing, and rendering PowerPoint files in the browser. Handles shapes, charts, SmartArt, themes, animations, and exports to PNG/PDF/video. Built with React, JSZip, and a mixin-based architecture. I'm building this by using Claude Clode.
-- **[DownUnderDiscordBot](https://github.com/ChristopherVR/DownUnderDiscordBot)** - Discord bot for music playback alongside a Tauri-based desktop app to . TypeScript, Discord.js, Docker.
+- **[AbioticEditor](https://github.com/ChristopherVR/AbioticEditor)** - Save editor for the game Abiotic Factor: a .NET desktop app, CLI, and plugin host for reading and editing save files. C#, .NET.
+- **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** - TypeScript monorepo for parsing, editing, and rendering PowerPoint files in the browser. Handles shapes, charts, SmartArt, themes, animations, and exports to PNG/PDF/video. Built with React, JSZip, and a mixin-based architecture — developed with Claude Code.
+- **[DownUnderDiscordBot](https://github.com/ChristopherVR/DownUnderDiscordBot)** - Discord music bot with a Tauri-based desktop companion app. TypeScript, Discord.js, Docker.
 
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
 
@@ -31,7 +31,13 @@ BSc IT & Honours in Computer Science from North West University. Azure certified
 
 ## Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophervr&" alt="christophervr" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristopherVR&show_icons=true&count_private=true&theme=react&hide_border=true" alt="ChristopherVR stats" />
+</p>
+
+<p align="center">
+<img align="center" src="https://streak-stats.demolab.com/?user=christophervr&theme=react&hide_border=true" alt="christophervr streak" />
+</p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChristopherVR&theme=react-dark)
 
@@ -39,4 +45,9 @@ BSc IT & Honours in Computer Science from North West University. Azure certified
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/christopher-van-rooyen/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Christopher" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christopher-van-rooyen/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+&nbsp;
+
+[Connect on LinkedIn](https://www.linkedin.com/in/christopher-van-rooyen/)
+
+---
