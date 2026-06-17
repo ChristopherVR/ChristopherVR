@@ -17,7 +17,7 @@ BSc IT & Honours in Computer Science from North West University. Azure certified
 ## What I'm working on (personal)
 
 - **[AbioticEditor](https://github.com/ChristopherVR/AbioticEditor)** - Save editor for the game Abiotic Factor: a .NET desktop app, CLI, and plugin host for reading and editing save files. C#, .NET.
-- **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** - TypeScript monorepo for parsing, editing, and rendering PowerPoint files in the browser. Handles shapes, charts, SmartArt, themes, animations, and exports to PNG/PDF/video. Built with React, JSZip, and a mixin-based architecture — developed with Claude Code.
+- **[pptx-viewer](https://github.com/ChristopherVR/pptx-viewer)** - TypeScript monorepo for parsing, editing, and rendering PowerPoint files in the browser. Handles shapes, charts, SmartArt, themes, animations, and exports to PNG/PDF/video. Built with React, JSZip, and a mixin-based architecture - developed with Claude Code.
 - **[DownUnderDiscordBot](https://github.com/ChristopherVR/DownUnderDiscordBot)** - Discord music bot with a Tauri-based desktop companion app. TypeScript, Discord.js, Docker.
 
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
