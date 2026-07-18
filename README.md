@@ -8,7 +8,7 @@ Azure Software Engineer based in Brisbane, Australia. I work mostly with TypeScr
 
 Day-to-day I build MCP servers, write custom agent skills, and wire agentic AI into enterprise workflows - it's a core part of what I do both professionally and in side projects.
 
-BSc IT & Honours in Computer Science from North West University. Azure certified (AZ-204, AZ-900).
+BSc IT & Honours in Computer Science from North West University. Azure certified (AZ-204, AZ-900, and AI-103).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christophervr&label=Profile%20views&color=0e75b6&style=flat" alt="ChristopherVR" /> </p>
 
