@@ -32,22 +32,11 @@ BSc IT & Honours in Computer Science from North West University. Azure certified
 ## Stats
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristopherVR&show_icons=true&count_private=true&theme=react&hide_border=true" alt="ChristopherVR stats" />
-</p>
-
-<p align="center">
 <img align="center" src="https://streak-stats.demolab.com/?user=christophervr&theme=react&hide_border=true" alt="christophervr streak" />
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChristopherVR&theme=react-dark)
 
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
-
-## Connect
-
-<a href="https://www.linkedin.com/in/christopher-van-rooyen/" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-&nbsp;
-
-[Connect on LinkedIn](https://www.linkedin.com/in/christopher-van-rooyen/)
 
 ---
