@@ -31,10 +31,6 @@ BSc IT & Honours in Computer Science from North West University. Azure certified
 
 ## Stats
 
-<p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=christophervr&theme=react&hide_border=true" alt="christophervr streak" />
-</p>
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChristopherVR&theme=react-dark)
 
 ![-----------------------------------------------------](https://github.com/ChristopherVR/ChristopherVR/blob/main/rainbow.png)
