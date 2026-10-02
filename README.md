@@ -1,6 +1,11 @@
-<a href="https://christophervr.github.io/ooxml/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/chungus-profile-dark.svg">
-  <img alt="Christopher's profile: Azure Software Engineer in Brisbane, Australia, building an Office suite for the browser (ooxml, docx-viewer, pptx-viewer), with live contribution graphs. Then a very large rabbit in a gold gauntlet walks in and snaps it all away." src="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/chungus-profile-light.svg" width="100%">
-</picture>
-</a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/chungus-stage-dark.svg"><img alt="Hi, I'm Christopher, Azure Software Engineer in Brisbane. A very large rabbit with a gold gauntlet walks in and snaps half of this profile away." src="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/chungus-stage-light.svg" width="100%"></picture>
+
+<a href="https://github.com/ChristopherVR?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/row-about-dark.svg"><img alt="About me: I work mostly with TypeScript, C# and Python, focused on agentic AI and enterprise integrations on Azure. Tools: TypeScript, JavaScript, C#, .NET, Python, Rust, React, Angular, Node.js, Azure, Docker, Kubernetes, SQL Server." src="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/row-about-light.svg" width="100%"></picture></a>
+
+<a href="https://christophervr.github.io/ooxml/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/row-suite-dark.svg"><img alt="An Office suite for the browser: ooxml (the engine), docx-viewer (Word), pptx-viewer (PowerPoint) and the launcher to try it." src="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/row-suite-light.svg" width="100%"></picture></a>
+
+<a href="https://github.com/ChristopherVR?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/row-other-dark.svg"><img alt="Other projects: AbioticEditor, a save editor for Abiotic Factor, and DownUnderDiscordBot, a Discord music bot." src="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/row-other-light.svg" width="100%"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/activity-dark.svg"><img alt="Contribution activity over the last 60 days" src="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/activity-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/overview-dark.svg"><img alt="Contribution totals and languages" src="https://raw.githubusercontent.com/ChristopherVR/ChristopherVR/output/overview-light.svg" width="100%"></picture>

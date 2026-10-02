@@ -1,8 +1,9 @@
 name: Profile graphics
 
-# Regenerates the README's Chungus profile animation (which embeds the
-# activity graph and overview card) plus the contribution snake, and
-# publishes them to the `output` branch. Nothing here depends on a
+# Regenerates the README's images (the Chungus stage, one image per section,
+# the activity graph and overview card) plus the contribution snake, and
+# publishes them to the `output` branch. Each run snaps a different half of
+# the sections. Nothing here depends on a
 # hosted image service, so the profile cannot break when one goes away.
 
 on:
@@ -13,6 +14,7 @@ on:
     branches: [main]
     paths:
       - scripts/**
+      - assets/**
       - .github/workflows/profile.yml
 
 permissions:

@@ -1,0 +1,90 @@
+[
+ {
+  "name": "00-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "01-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "02-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "03-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "04-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "05-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "06-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "07-walk.webp",
+  "phase": "walk"
+ },
+ {
+  "name": "08-turn.webp",
+  "phase": "turn"
+ },
+ {
+  "name": "09-turn.webp",
+  "phase": "turn"
+ },
+ {
+  "name": "10-turn.webp",
+  "phase": "turn"
+ },
+ {
+  "name": "11-turn.webp",
+  "phase": "turn"
+ },
+ {
+  "name": "12-raise.webp",
+  "phase": "raise"
+ },
+ {
+  "name": "13-raise.webp",
+  "phase": "raise"
+ },
+ {
+  "name": "14-raise.webp",
+  "phase": "raise"
+ },
+ {
+  "name": "15-raise.webp",
+  "phase": "raise"
+ },
+ {
+  "name": "16-raise.webp",
+  "phase": "raise"
+ },
+ {
+  "name": "17-charge.webp",
+  "phase": "charge"
+ },
+ {
+  "name": "18-charge.webp",
+  "phase": "charge"
+ },
+ {
+  "name": "19-snap.webp",
+  "phase": "snap"
+ },
+ {
+  "name": "20-snap.webp",
+  "phase": "snap"
+ },
+ {
+  "name": "21-after.webp",
+  "phase": "after"
+ }
+]
