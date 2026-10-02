@@ -6,6 +6,7 @@
 
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { chungusProfileSvg } from './chungus.mjs';
 
 const login = process.argv[2] ?? 'ChristopherVR';
 const outDir = process.argv[3] ?? 'dist';
@@ -23,6 +24,10 @@ const THEMES = {
 		grid: '#21262d',
 		line: '#3fb950',
 		fill: '#3fb950',
+		accent: '#4493f8',
+		card: '#161b22',
+		flash: '#ffe9a8',
+		flashPeak: 0.3,
 	},
 	light: {
 		bg: '#ffffff',
@@ -32,6 +37,10 @@ const THEMES = {
 		grid: '#eaeef2',
 		line: '#1a7f37',
 		fill: '#2da44e',
+		accent: '#0969da',
+		card: '#f6f8fa',
+		flash: '#fff8dc',
+		flashPeak: 0.7,
 	},
 };
 
@@ -225,7 +234,10 @@ const days = user.contributionsCollection.contributionCalendar.weeks
 
 await mkdir(outDir, { recursive: true });
 for (const [name, theme] of Object.entries(THEMES)) {
-	await writeFile(join(outDir, `activity-${name}.svg`), activitySvg(days, theme));
-	await writeFile(join(outDir, `overview-${name}.svg`), overviewSvg(user, theme));
+	const activity = activitySvg(days, theme);
+	const overview = overviewSvg(user, theme);
+	await writeFile(join(outDir, `activity-${name}.svg`), activity);
+	await writeFile(join(outDir, `overview-${name}.svg`), overview);
+	await writeFile(join(outDir, `chungus-profile-${name}.svg`), chungusProfileSvg(theme, activity, overview));
 }
-console.log(`Wrote activity and overview SVGs for ${login} to ${outDir}`);
+console.log(`Wrote activity, overview and Chungus profile SVGs for ${login} to ${outDir}`);
