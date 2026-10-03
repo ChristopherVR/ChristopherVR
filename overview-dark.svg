@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="859" height="199" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="44" font-size="22" font-weight="600" fill="#e6edf3">7,370</text>
+<text x="24" y="64" font-size="12" fill="#8b949e">Contributions (12 months)</text>
+<text x="186.4" y="44" font-size="22" font-weight="600" fill="#e6edf3">7,262</text>
+<text x="186.4" y="64" font-size="12" fill="#8b949e">Commits</text>
+<text x="348.8" y="44" font-size="22" font-weight="600" fill="#e6edf3">23</text>
+<text x="348.8" y="64" font-size="12" fill="#8b949e">Pull requests</text>
+<text x="511.20000000000005" y="44" font-size="22" font-weight="600" fill="#e6edf3">137</text>
+<text x="511.20000000000005" y="64" font-size="12" fill="#8b949e">Stars earned</text>
+<text x="673.6" y="44" font-size="22" font-weight="600" fill="#e6edf3">25</text>
+<text x="673.6" y="64" font-size="12" fill="#8b949e">Public repositories</text>
+<text x="24" y="100" font-size="12" font-weight="600" fill="#e6edf3">Languages across public repositories</text>
+<clipPath id="bar"><rect x="24" y="112" width="812" height="10" rx="5"/></clipPath>
+<rect x="24" y="112" width="812" height="10" rx="5" fill="#21262d"/>
+<g clip-path="url(#bar)">
+<rect x="24.0" y="112" width="651.6" height="10" fill="#3178c6"/>
+<rect x="675.6" y="112" width="79.4" height="10" fill="#7355dd"/>
+<rect x="755.0" y="112" width="15.9" height="10" fill="#e34c26"/>
+<rect x="770.9" y="112" width="15.7" height="10" fill="#41b883"/>
+<rect x="786.7" y="112" width="13.3" height="10" fill="#ff3e00"/>
+<rect x="799.9" y="112" width="12.1" height="10" fill="#f1e05a"/>
+</g>
+<circle cx="29" cy="144" r="5" fill="#3178c6"/>
+<text x="40" y="148" font-size="12" fill="#e6edf3">TypeScript <tspan fill="#8b949e">80.2%</tspan></text>
+<circle cx="299.6666666666667" cy="144" r="5" fill="#7355dd"/>
+<text x="310.6666666666667" y="148" font-size="12" fill="#e6edf3">C# <tspan fill="#8b949e">9.8%</tspan></text>
+<circle cx="570.3333333333334" cy="144" r="5" fill="#e34c26"/>
+<text x="581.3333333333334" y="148" font-size="12" fill="#e6edf3">HTML <tspan fill="#8b949e">2.0%</tspan></text>
+<circle cx="29" cy="168" r="5" fill="#41b883"/>
+<text x="40" y="172" font-size="12" fill="#e6edf3">Vue <tspan fill="#8b949e">1.9%</tspan></text>
+<circle cx="299.6666666666667" cy="168" r="5" fill="#ff3e00"/>
+<text x="310.6666666666667" y="172" font-size="12" fill="#e6edf3">Svelte <tspan fill="#8b949e">1.6%</tspan></text>
+<circle cx="570.3333333333334" cy="168" r="5" fill="#f1e05a"/>
+<text x="581.3333333333334" y="172" font-size="12" fill="#e6edf3">JavaScript <tspan fill="#8b949e">1.5%</tspan></text>
+</svg>
