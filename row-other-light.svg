@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="124" viewBox="0 0 860 124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<title>Other projects: AbioticEditor and DownUnderDiscordBot</title>
+<style>@keyframes wipe{from{transform:none}to{transform:translateX(100%)}}
+.wipe{transform-box:fill-box;animation:wipe 1.1s linear 8.65s forwards}
+@keyframes dust{0%{opacity:1;transform:none}100%{opacity:0;transform:translate(var(--dx),var(--dy))}}
+.p{opacity:0;animation:dust 1.6s ease-out forwards}
+@keyframes leave{to{opacity:0}}
+.old{animation:leave .18s ease-in 10s forwards}
+@keyframes settle{from{opacity:0;transform:translateX(var(--dx))}to{opacity:1;transform:none}}
+.new{opacity:0;animation:settle .65s cubic-bezier(.2,.8,.2,1) 10.18s forwards}
+@media (prefers-reduced-motion: reduce){.wipe,.p,.old,.new{animation:none}.p,.new{display:none}}</style>
+<g class="old"><g transform="translate(0.0 0)"><rect x="0.5" y="0.5" width="422" height="123" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="18" y="34" font-size="17" font-weight="700" fill="#0969da">AbioticEditor</text>
+<text x="18" y="54" font-size="11.5" fill="#59636e">C# · .NET</text>
+<text x="18" y="80" font-size="13" fill="#1f2328">Save editor for Abiotic Factor that runs in the browser</text><text x="18" y="99" font-size="13" fill="#1f2328">or as a desktop app, with a CLI and a plugin host.</text></g></g><g class="new" style="--dx:0.0px"><g transform="translate(0.0 0)"><rect x="0.5" y="0.5" width="422" height="123" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="18" y="34" font-size="17" font-weight="700" fill="#0969da">AbioticEditor</text>
+<text x="18" y="54" font-size="11.5" fill="#59636e">C# · .NET</text>
+<text x="18" y="80" font-size="13" fill="#1f2328">Save editor for Abiotic Factor that runs in the browser</text><text x="18" y="99" font-size="13" fill="#1f2328">or as a desktop app, with a CLI and a plugin host.</text></g></g><g class="old"><g transform="translate(437.0 0)"><rect x="0.5" y="0.5" width="422" height="123" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="18" y="34" font-size="17" font-weight="700" fill="#0969da">DownUnderDiscordBot</text>
+<text x="18" y="54" font-size="11.5" fill="#59636e">TypeScript · Discord.js · Docker</text>
+<text x="18" y="80" font-size="13" fill="#1f2328">Discord music bot with a Tauri-based desktop companion</text><text x="18" y="99" font-size="13" fill="#1f2328">app.</text></g></g><g class="new" style="--dx:0.0px"><g transform="translate(437.0 0)"><rect x="0.5" y="0.5" width="422" height="123" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="18" y="34" font-size="17" font-weight="700" fill="#0969da">DownUnderDiscordBot</text>
+<text x="18" y="54" font-size="11.5" fill="#59636e">TypeScript · Discord.js · Docker</text>
+<text x="18" y="80" font-size="13" fill="#1f2328">Discord music bot with a Tauri-based desktop companion</text><text x="18" y="99" font-size="13" fill="#1f2328">app.</text></g></g>
+
+</svg>
