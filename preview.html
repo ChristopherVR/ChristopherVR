@@ -1,0 +1,63 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Profile preview</title>
+<style>
+:root{color-scheme:light dark;--page:#fff;--ink:#1f2328;--rule:#d1d9e0;--link:#0969da}
+@media (prefers-color-scheme:dark){:root{--page:#0d1117;--ink:#f0f6fc;--rule:#3d444d;--link:#4493f8}}
+:root[data-theme=light]{--page:#fff;--ink:#1f2328;--rule:#d1d9e0;--link:#0969da}
+:root[data-theme=dark]{--page:#0d1117;--ink:#f0f6fc;--rule:#3d444d;--link:#4493f8}
+body{margin:0;background:var(--page);color:var(--ink);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+main{box-sizing:border-box;max-width:894px;margin:0 auto;padding:24px}
+img{max-width:100%;height:auto;vertical-align:middle}
+p{margin:0 0 16px}
+a{color:var(--link)}
+details{margin:0 0 16px}
+li{margin:4px 0 4px 24px}
+table{border-collapse:collapse;margin:12px 0}
+td,th{border:1px solid var(--rule);padding:6px 13px;text-align:left}
+code{font:85% ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:color-mix(in srgb,var(--ink) 10%,transparent);padding:.2em .4em;border-radius:6px}
+pre code{display:block;padding:16px;overflow:auto}
+</style>
+<main>
+<picture><source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg"><img alt="Christopher van Rooyen, Azure software engineer in Brisbane. By day I build MCP servers and wire agentic AI into enterprise systems on Azure and Databricks. After hours I experiment with AI for decompilation, build open source products and make mods for games. The drawing shows the sky over Brisbane as it was at the last rebuild, above my past year of contributions drawn as a city with one column per day." src="hero-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="now-dark.svg"><img alt="This week: commits in the last seven days by repository, each with its last twelve weeks, and the latest releases." src="now-light.svg" width="100%"></picture>
+
+<a href="https://christophervr.github.io/ooxml/"><picture><source media="(prefers-color-scheme: dark)" srcset="ooxml-dark.svg"><img alt="ooxml: Word and PowerPoint in the browser. One engine parses, edits, renders and saves .docx and .pptx without the file leaving the page, with components for React, Vue, Angular, Svelte and Solid. The drawing shows a slide lifting apart into its ZIP package, theme, layout and shapes." src="ooxml-light.svg" width="100%"></picture></a>
+
+<!-- cards:start (written by scripts/build.mjs from the pinned repositories) -->
+
+<p>
+<a href="https://christophervr.github.io/AbioticEditor/app/"><picture><source media="(prefers-color-scheme: dark)" srcset="card-abioticeditor-dark.svg"><img alt="AbioticEditor: A save editor for Abiotic Factor, in the browser or on the desktop: characters, worlds and your base in 3D, with a backup kept on every save." src="card-abioticeditor-light.svg" width="49%"></picture></a>
+<a href="https://christophervr.github.io/emf-converter/"><picture><source media="(prefers-color-scheme: dark)" srcset="card-emf-converter-dark.svg"><img alt="emf-converter: Replays Windows metafiles (EMF, EMF+ and WMF) record by record into PNG, SVG or PDF, checked pixel for pixel against Windows itself." src="card-emf-converter-light.svg" width="49%"></picture></a>
+</p>
+
+<p>
+<a href="https://christophervr.github.io/kotor-mod-manager/"><picture><source media="(prefers-color-scheme: dark)" srcset="card-kotor-mod-manager-dark.svg"><img alt="kotor-mod-manager: Installs the community mod builds for KOTOR 1 and 2 in one click: it downloads every mod and applies them in the right order." src="card-kotor-mod-manager-light.svg" width="49%"></picture></a>
+<a href="https://christophervr.github.io/Drakan2PC/"><picture><source media="(prefers-color-scheme: dark)" srcset="card-drakan2pc-dark.svg"><img alt="Drakan2PC: A 2002 PlayStation 2 game, statically recompiled: its MIPS code is translated to C++ and built for Windows, Linux and the browser." src="card-drakan2pc-light.svg" width="49%"></picture></a>
+</p>
+
+<p>
+<a href="https://christophervr.github.io/kotor-coop/"><picture><source media="(prefers-color-scheme: dark)" srcset="card-kotor-coop-dark.svg"><img alt="kotor-coop: Drop-in co-op for Knights of the Old Republic. One player hosts and friends join the same world from their own copies of the game." src="card-kotor-coop-light.svg" width="49%"></picture></a>
+<a href="https://christophervr.github.io/mtx-decompressor/"><picture><source media="(prefers-color-scheme: dark)" srcset="card-mtx-decompressor-dark.svg"><img alt="mtx-decompressor: Unpacks MicroType Express fonts from the EOT containers buried in old Office documents, back into plain TrueType." src="card-mtx-decompressor-light.svg" width="49%"></picture></a>
+</p>
+
+<!-- cards:end -->
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="overview-dark.svg"><img alt="Languages across my public repositories, laid along a Hilbert curve, with the tools I work in and this year's totals." src="overview-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="footer-dark.svg"><img alt="When this page was last rebuilt. It rebuilds every hour, and whenever a project ships a release." src="footer-light.svg" width="100%"></picture>
+
+</main>
+<script>
+const theme = new URLSearchParams(location.search).get('theme');
+if (theme) {
+	document.documentElement.dataset.theme = theme;
+	for (const s of document.querySelectorAll('source')) {
+		const dark = s.media.includes('dark');
+		if (dark === (theme === 'dark')) s.media = 'all';
+		else s.remove();
+	}
+}
+</script>
