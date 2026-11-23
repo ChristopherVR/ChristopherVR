@@ -151,13 +151,14 @@ export function hero(data, T) {
 
 	// One plain sentence about the sky, so the drawing can be checked.
 	const where = PROFILE.city;
+	const stamp = `${clock(sky.date)} ${PROFILE.timeZoneLabel}`;
 	const moonNote = `${sky.phase.name[0].toUpperCase()}${sky.phase.name.slice(1)}${sky.moon.alt > 2 ? ', up now' : ''}.`;
 	const sunNote = sunUp
-		? `The sun is ${Math.round(sky.sun.alt)}° up in the ${compass(sky.sun.az)} and sets at ${clock(sky.sunset)}.`
+		? `Sun ${Math.round(sky.sun.alt)}° up in the ${compass(sky.sun.az)}, sets at ${clock(sky.sunset)}.`
 		: sky.date < sky.sunrise
-			? `The sun is down and rises at ${clock(sky.sunrise)}.`
-			: `The sun set at ${clock(sky.sunset)}.`;
-	const noteLines = wrap('text', `${where}, ${clock(sky.date)}. ${sunNote} ${moonNote}`, 13.5, 560);
+			? `Sun is down, rises at ${clock(sky.sunrise)}.`
+			: `Sun set at ${clock(sky.sunset)}.`;
+	const noteLines = wrap('text', `${where} at ${stamp} (last build). ${sunNote} ${moonNote}`, 13.5, 560);
 	let note = '';
 	noteLines.forEach((l, i) => {
 		note += text(0, SKY.horizon + 40 + i * 19, l, { font: 'text', size: 13.5, fill: T.soft });
@@ -354,7 +355,7 @@ export function hero(data, T) {
 	return svg({
 		w: W,
 		h: H,
-		title: `${data.name}. ${PROFILE.headline} ${PROFILE.intro} ${where}, ${clock(sky.date)}: ${sunNote} ${moonNote} Below, ${big} contributions in the past year drawn as a city with one column per day; the busiest day had ${fmt(t.best.count)}.`,
+		title: `${data.name}. ${PROFILE.headline} ${PROFILE.intro} ${where} sky at ${stamp} (last build): ${sunNote} ${moonNote} Below, ${big} contributions in the past year drawn as a city with one column per day; the busiest day had ${fmt(t.best.count)}.`,
 		fonts: ['display', 'text', 'mono'],
 		css: css.join(''),
 		defs,

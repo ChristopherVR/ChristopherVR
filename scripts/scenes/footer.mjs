@@ -9,7 +9,7 @@ const stamp = (date, opts) => new Intl.DateTimeFormat('en-AU', { timeZone: PROFI
 
 export function footer(data, T) {
 	const when = `${stamp(data.builtAt, { day: 'numeric', month: 'short' })}, ${stamp(data.builtAt, { hour: 'numeric', minute: '2-digit', hour12: true })} ${PROFILE.timeZoneLabel}`;
-	const line = `Last rebuilt ${when}. It runs again every hour, and whenever a project ships a release.`;
+	const line = `Last rebuilt ${when}. Scheduled hourly on GitHub Actions (timing varies under load), and on every release.`;
 	return svg({
 		w: W,
 		h: 28,
